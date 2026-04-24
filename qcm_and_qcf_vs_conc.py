@@ -1,3 +1,5 @@
+#Figure 2 in the manuscript
+
 import numpy as np
 import matplotlib as mpl
 import matplotlib.ticker
