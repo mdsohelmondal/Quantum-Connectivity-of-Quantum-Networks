@@ -1,4 +1,4 @@
-#Figure 2 in the manuscript
+#Figure 2(a) in the manuscript
 
 import numpy as np
 import matplotlib as mpl
