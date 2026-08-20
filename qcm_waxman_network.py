@@ -1,4 +1,4 @@
-#Figure 3 in the manuscript
+#Figure 2(b) in the manuscript
 
 import numpy as np
 import networkx as nx
