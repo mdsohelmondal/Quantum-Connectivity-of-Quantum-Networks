@@ -12,9 +12,9 @@ The paper introduces the **Quantum Connectivity Measure (QCM)**, **Quantum-Conne
 
 | File | Figure | Description |
 |---|---|---|
-| `qcm_and_qcf_vs_conc.py` | Fig. 2(a) | QCM and QCF vs. average edge concurrence for fully connected and random networks. |
-| `qcm_waxman_network.py` | Fig. 2(b) | Regional QCM for a spatial Waxman quantum network. |
-| `path_length_pdf.py` | Supplemental Fig. 1 | Shortest-path-length distribution for a random network. |
+| `qcm_and_qcf_vs_conc.py` | Fig. 2 | QCM and QCF vs. average edge concurrence for fully connected and random networks. |
+| `qcm_waxman_network.py` | Fig. 3 | Regional QCM for a spatial Waxman quantum network. |
+| `path_length_pdf.py` | Fig. 4 | Shortest-path-length distribution for a random network. |
 
 ## Requirements
 
